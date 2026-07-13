@@ -1,0 +1,2 @@
+"""DHBW Studienassistent MVP."""
+
